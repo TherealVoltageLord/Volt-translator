@@ -18,7 +18,8 @@ const languages = [
   { code: 'nl', name: 'Dutch', flag: '🇳🇱' },
   { code: 'sv', name: 'Swedish', flag: '🇸🇪' },
   { code: 'fi', name: 'Finnish', flag: '🇫🇮' },
-  { code: 'pl', name: 'Polish', flag: '🇵🇱' }
+  { code: 'pl', name: 'Polish', flag: '🇵🇱' },
+  { code: 'yo', name: 'Yoruba', flag: '🇳🇬' }
 ];
 
 // DOM Elements
